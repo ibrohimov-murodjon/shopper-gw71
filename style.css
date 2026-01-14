@@ -5,6 +5,15 @@
   background-image:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NzDUzcaD3mlKcYuXfvgrSMnwxbVOF7ZCLRuZS-YPUw&s ;
 }
 
+.abdu {
+  color: white;
+  background: #2A7B9B;
+  background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  
+}
+h1 {
+  font-size: 24px;
+  text-align: center;
 .umar-xalk{
   color: brown;
   background-color: aqua;
