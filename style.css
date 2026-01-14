@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-image:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NzDUzcaD3mlKcYuXfvgrSMnwxbVOF7ZCLRuZS-YPUw&s ;
 }
 
 .abdu {
@@ -13,4 +14,8 @@
 h1 {
   font-size: 24px;
   text-align: center;
+.umar-xalk{
+  color: brown;
+  background-color: aqua;
+  padding-left: 750px;
 }
